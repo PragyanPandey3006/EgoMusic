@@ -1,10 +1,10 @@
 {
 
-    "name": "Aviax Music",
+    "name": "Ego Music",
 
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
 
-    "logo": "https://telegra.ph/Aviax-02-24",
+    "logo": "https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg",
 
     "keywords": [
 
@@ -14,7 +14,7 @@
 
     "bot",
 
-    "Aviax",
+    "Ego",
 
     "MusicBot",
 
@@ -108,7 +108,7 @@
 
       "LOG_GROUP_ID": {
 
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
+        "description": "Your Log Group ID or Username. Can be either chat ID (-1001234567890) or username (@your_log_channel). Add your bot and promote as an admin with full rights!",
 
         "value": "",
 

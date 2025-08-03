@@ -1,14 +1,14 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 Ego Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://graph.org/file/97d329bfacdb6933f9f03-0d4c1b798678263805.jpg" alt="Ego Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/TeamEgo/EgoMusic?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/TeamEgo/EgoMusic?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/TeamEgo/EgoMusic?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/TeamEgo/EgoMusic?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -96,7 +96,7 @@ API_KEY=your-api-key-here
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TeamEgo/EgoMusic)
 
 ---
 
@@ -121,7 +121,7 @@ API_KEY=your-api-key-here
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/TeamEgo/EgoMusic && cd EgoMusic
    ```
 6. **Install Requirements**
    ```bash
@@ -152,7 +152,7 @@ API_KEY=your-api-key-here
 
 ### 🛠 Commands & Usage
 
-The Aviax Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Ego Music Bot offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -163,19 +163,19 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/EgoMusicBot).
 
 ---
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to Ego Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://telegram.me/egomusicbots">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://telegram.me/egomusicbots">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -184,7 +184,7 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the Ego Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
@@ -204,6 +204,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
+Thanks to all the contributors, supporters, and users of the Ego Music Bot. Your feedback and support keep us going!
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
 - **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.
